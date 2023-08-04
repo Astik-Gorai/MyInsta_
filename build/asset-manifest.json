@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyInsta2/static/css/main.c463dec3.css",
+    "main.js": "/MyInsta2/static/js/main.ed99e90f.js",
+    "static/js/787.9d576594.chunk.js": "/MyInsta2/static/js/787.9d576594.chunk.js",
+    "static/media/logo2.png": "/MyInsta2/static/media/logo2.d8adb1d5a0de68b27d81.png",
+    "index.html": "/MyInsta2/index.html",
+    "main.c463dec3.css.map": "/MyInsta2/static/css/main.c463dec3.css.map",
+    "main.ed99e90f.js.map": "/MyInsta2/static/js/main.ed99e90f.js.map",
+    "787.9d576594.chunk.js.map": "/MyInsta2/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c463dec3.css",
+    "static/js/main.ed99e90f.js"
+  ]
+}
