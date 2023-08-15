@@ -1,0 +1,21 @@
+
+Bugs that I have to fix:
+
+1. Images are not uploaded properly.
+2. Comments are not comming from the firebase.
+3. Comments are not uploading.
+
+
+Current Task : 
+Lets fetch the comments from the firebase
+
+**************************************************************
+
+Previous Bugs are solved .
+
+Next Required Updates (Stage 2):
+    1. Will Update some styles
+    2. Personalized Space For their Photos.
+
+Final Update:
+    1. Personalized Chat Space.
